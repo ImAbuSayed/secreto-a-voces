@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secreto-a-voces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Secreto a voces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-a-voces/) |
+| **Get License** | [Commercial Licensing for Secreto a voces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-a-voces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `777ff8d83b642f24de753c813b3e8f30699419a6023a9568175084fd8e496a3d` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
