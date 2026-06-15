@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secreto-a-voces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Secreto a voces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-a-voces/) |
+| **Get License** | [Music Rights & Licensing for Secreto a voces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secreto-a-voces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras y la disco entera sabe nuestra intención,
+> un secreto a voces que quema en la habitación.
+> No hace falta hablar cuando bailas a mi alrededor,
+> tú y yo perdiendo el control al ritmo del dembow.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
